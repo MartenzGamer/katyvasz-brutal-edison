@@ -1,12 +1,7 @@
----
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
-
----
-
+name: Bug Report
+description: For issues such as "X happens instead of Y"
+title: "[BUG] *Replace with brief description of the issue*"
+labels: "[bug]"
 body:
   - type: markdown
     attributes:
