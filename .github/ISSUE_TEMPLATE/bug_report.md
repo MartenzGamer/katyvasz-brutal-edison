@@ -7,32 +7,61 @@ assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
-
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
-
-**Expected behavior**
-A clear and concise description of what you expected to happen.
-
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
-
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+body:
+  - type: markdown
+    attributes:
+      value: |
+        If the issue is a Crash or Question, please ask in the Discord first https://discord.gg/ZS6FRR3
+  - type: textarea
+    id: bug-desc
+    attributes:
+      label: Description of the Bug
+      description: Description of effects of the bug, and what actually happened.
+      placeholder: |
+        Causes X to do Z instead of Y
+    validations:
+      required: true
+  - type: textarea
+    id: expected-behaviour
+    attributes:
+      label: Expected Behaviour
+      description: What you expected to happen.
+      placeholder: |
+        1. Go to X
+        2. Click on Y
+        3. Z occurs
+    validations:
+      required: true
+  - type: input
+    id: version-info
+    attributes:
+      label: Modpack Version
+      description: Please do not put "Latest", that is useless info.
+      placeholder: 1.4.4, 1.5-RC
+    validations:
+      required: true
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: Screenshots
+      description: Screenshots of the issue, if applicable.
+    validations:
+      required: false
+  - type: input
+    id: log
+    attributes:
+      label: Log
+      description: Not required for all types of issues, do not include if not applicable.
+      placeholder: Link from paste.gg, gist.github.com, etc.
+    validations:
+      required: false
+  - type: textarea
+    id: extra-info
+    attributes:
+      label: Extra Info
+      description: Any extra information about your instance of MC Eternal, such as additional mods not in the base pack. Please note that support on Altered instances is limited.
+      placeholder: |
+        Extra Mods: somerandommod-1.12.2-1.6.3, someotherrandommod-1.3.4-1.86
+        Configs changed: Changed X in Y.cfg
+    validations:
+      required: false
