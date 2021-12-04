@@ -1,9 +1,5 @@
 {
-  "AetherI": {
-    "energyToOpen": 0,
-    "keepAlive": 0
-  },
-  "planet": {
+  "Treasure Room": {
     "energyToOpen": 0,
     "keepAlive": 0
   },
@@ -12,7 +8,15 @@
     "keepAlive": 0,
     "group": "netherOv"
   },
-  "dungeon": {
+  "Deep Dark": {
+    "energyToOpen": 0,
+    "keepAlive": 0
+  },
+  "AetherI": {
+    "energyToOpen": 0,
+    "keepAlive": 0
+  },
+  "ExtraUtils2_Quarry_Dim": {
     "energyToOpen": 0,
     "keepAlive": 0
   },
@@ -20,19 +24,11 @@
     "energyToOpen": 0,
     "keepAlive": 0
   },
+  "End": {
+    "energyToOpen": 0,
+    "keepAlive": 0
+  },
   "Spectre": {
-    "energyToOpen": 0,
-    "keepAlive": 0
-  },
-  "Anu Lair": {
-    "energyToOpen": 0,
-    "keepAlive": 0
-  },
-  "Deep Dark": {
-    "energyToOpen": 0,
-    "keepAlive": 0
-  },
-  "nc_wasteland": {
     "energyToOpen": 0,
     "keepAlive": 0
   },
@@ -41,23 +37,19 @@
     "keepAlive": 1600,
     "group": "netherOv"
   },
-  "Treasure Room": {
+  "Mystcraft_ProfilerDummy": {
     "energyToOpen": 0,
     "keepAlive": 0
   },
-  "End": {
+  "Anu Lair": {
     "energyToOpen": 0,
     "keepAlive": 0
   },
-  "Storage Cell": {
+  "pocket": {
     "energyToOpen": 0,
     "keepAlive": 0
   },
-  "ExtraUtils2_Quarry_Dim": {
-    "energyToOpen": 0,
-    "keepAlive": 0
-  },
-  "Tropics": {
+  "nc_wasteland": {
     "energyToOpen": 0,
     "keepAlive": 0
   },
@@ -65,7 +57,19 @@
     "energyToOpen": 0,
     "keepAlive": 0
   },
-  "pocket": {
+  "planet": {
+    "energyToOpen": 0,
+    "keepAlive": 0
+  },
+  "Tropics": {
+    "energyToOpen": 0,
+    "keepAlive": 0
+  },
+  "dungeon": {
+    "energyToOpen": 0,
+    "keepAlive": 0
+  },
+  "Storage Cell": {
     "energyToOpen": 0,
     "keepAlive": 0
   }

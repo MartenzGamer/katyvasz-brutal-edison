@@ -10,9 +10,9 @@
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "Katyvasz - Brutál Edisön",
-  "version": "1.0.2b",
-  "author": "",
+  "name": "Katyvasz Brutál Edisön",
+  "version": "1.1.2c",
+  "author": "Martenz",
   "files": [
     {
       "projectID": 224472,
@@ -75,13 +75,13 @@
       "required": true
     },
     {
-      "projectID": 225604,
-      "fileID": 2489566,
+      "projectID": 229503,
+      "fileID": 3102626,
       "required": true
     },
     {
-      "projectID": 229503,
-      "fileID": 3102626,
+      "projectID": 225604,
+      "fileID": 2489566,
       "required": true
     },
     {
@@ -275,13 +275,13 @@
       "required": true
     },
     {
-      "projectID": 313146,
-      "fileID": 2668213,
+      "projectID": 226254,
+      "fileID": 3328174,
       "required": true
     },
     {
-      "projectID": 226254,
-      "fileID": 3328174,
+      "projectID": 313146,
+      "fileID": 2668213,
       "required": true
     },
     {
@@ -306,7 +306,7 @@
     },
     {
       "projectID": 289760,
-      "fileID": 3507911,
+      "fileID": 3543290,
       "required": true
     },
     {
@@ -377,11 +377,6 @@
     {
       "projectID": 272514,
       "fileID": 2920596,
-      "required": true
-    },
-    {
-      "projectID": 357178,
-      "fileID": 3437402,
       "required": true
     },
     {
@@ -537,6 +532,11 @@
     {
       "projectID": 242500,
       "fileID": 3008088,
+      "required": true
+    },
+    {
+      "projectID": 274807,
+      "fileID": 3048077,
       "required": true
     },
     {
@@ -871,7 +871,7 @@
     },
     {
       "projectID": 514409,
-      "fileID": 3534871,
+      "fileID": 3541406,
       "required": true
     },
     {
@@ -1040,6 +1040,11 @@
       "required": true
     },
     {
+      "projectID": 291126,
+      "fileID": 3023901,
+      "required": true
+    },
+    {
       "projectID": 225957,
       "fileID": 2499443,
       "required": true
@@ -1105,6 +1110,11 @@
       "required": true
     },
     {
+      "projectID": 405327,
+      "fileID": 3045381,
+      "required": true
+    },
+    {
       "projectID": 267193,
       "fileID": 3490718,
       "required": true
@@ -1166,7 +1176,7 @@
     },
     {
       "projectID": 454372,
-      "fileID": 3524845,
+      "fileID": 3543822,
       "required": true
     },
     {

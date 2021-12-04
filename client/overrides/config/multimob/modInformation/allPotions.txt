@@ -273,6 +273,9 @@ bountifulbaubles:sinful
 charm:coffee
 charm:decay
 charm:ender_sight
+nutrition:toughness
+nutrition:nourished
+nutrition:malnourished
 scapeandrunvaccine:vaccine
 extrautils2:effect.xu2.doom
 extrautils2:effect.xu2.gravity

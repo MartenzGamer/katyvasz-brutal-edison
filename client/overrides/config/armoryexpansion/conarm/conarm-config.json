@@ -326,7 +326,7 @@
       "enableFletching": false,
       "enableProjectile": false
     },
-    "name": "palladium",
+    "name": "invar",
     "material": true,
     "fluid": true,
     "traits": true,
@@ -352,7 +352,7 @@
       "enableFletching": false,
       "enableProjectile": false
     },
-    "name": "invar",
+    "name": "palladium",
     "material": true,
     "fluid": true,
     "traits": true,
@@ -404,9 +404,9 @@
       "enableFletching": false,
       "enableProjectile": false
     },
-    "name": "lumix",
+    "name": "darkmatter",
     "material": true,
-    "fluid": true,
+    "fluid": false,
     "traits": true,
     "armorOptions": {
       "enableArmor": true,
@@ -430,9 +430,9 @@
       "enableFletching": false,
       "enableProjectile": false
     },
-    "name": "darkmatter",
+    "name": "lumix",
     "material": true,
-    "fluid": false,
+    "fluid": true,
     "traits": true,
     "armorOptions": {
       "enableArmor": true,
@@ -638,7 +638,7 @@
       "enableFletching": false,
       "enableProjectile": false
     },
-    "name": "void_actadd_plustic",
+    "name": "draconium",
     "material": true,
     "fluid": false,
     "traits": true,
@@ -664,7 +664,7 @@
       "enableFletching": false,
       "enableProjectile": false
     },
-    "name": "draconium",
+    "name": "void_actadd_plustic",
     "material": true,
     "fluid": false,
     "traits": true,
@@ -1990,7 +1990,7 @@
       "enableFletching": false,
       "enableProjectile": false
     },
-    "name": "adamant",
+    "name": "platinum",
     "material": true,
     "fluid": true,
     "traits": true,
@@ -2016,7 +2016,7 @@
       "enableFletching": false,
       "enableProjectile": false
     },
-    "name": "platinum",
+    "name": "adamant",
     "material": true,
     "fluid": true,
     "traits": true,
@@ -2120,32 +2120,6 @@
       "enableFletching": false,
       "enableProjectile": false
     },
-    "name": "fractum",
-    "material": true,
-    "fluid": true,
-    "traits": true,
-    "armorOptions": {
-      "enableArmor": true,
-      "enableCore": true,
-      "enablePlates": true,
-      "enableTrim": true
-    }
-  },
-  {
-    "toolOptions": {
-      "enableTool": false,
-      "enableHead": false,
-      "enableHandle": false,
-      "enableExtra": false
-    },
-    "rangedOptions": {
-      "enableRanged": false,
-      "enableBow": false,
-      "enableBowString": false,
-      "enableShaft": false,
-      "enableFletching": false,
-      "enableProjectile": false
-    },
     "name": "manasteel",
     "material": true,
     "fluid": true,
@@ -2175,6 +2149,32 @@
     "name": "rubber",
     "material": true,
     "fluid": false,
+    "traits": true,
+    "armorOptions": {
+      "enableArmor": true,
+      "enableCore": true,
+      "enablePlates": true,
+      "enableTrim": true
+    }
+  },
+  {
+    "toolOptions": {
+      "enableTool": false,
+      "enableHead": false,
+      "enableHandle": false,
+      "enableExtra": false
+    },
+    "rangedOptions": {
+      "enableRanged": false,
+      "enableBow": false,
+      "enableBowString": false,
+      "enableShaft": false,
+      "enableFletching": false,
+      "enableProjectile": false
+    },
+    "name": "fractum",
+    "material": true,
+    "fluid": true,
     "traits": true,
     "armorOptions": {
       "enableArmor": true,
@@ -2874,32 +2874,6 @@
       "enableFletching": false,
       "enableProjectile": false
     },
-    "name": "jade",
-    "material": true,
-    "fluid": false,
-    "traits": true,
-    "armorOptions": {
-      "enableArmor": true,
-      "enableCore": true,
-      "enablePlates": true,
-      "enableTrim": true
-    }
-  },
-  {
-    "toolOptions": {
-      "enableTool": false,
-      "enableHead": false,
-      "enableHandle": false,
-      "enableExtra": false
-    },
-    "rangedOptions": {
-      "enableRanged": false,
-      "enableBow": false,
-      "enableBowString": false,
-      "enableShaft": false,
-      "enableFletching": false,
-      "enableProjectile": false
-    },
     "name": "amethyst",
     "material": true,
     "fluid": false,
@@ -2978,7 +2952,7 @@
       "enableFletching": false,
       "enableProjectile": false
     },
-    "name": "basalt",
+    "name": "lumium",
     "material": true,
     "fluid": true,
     "traits": true,
@@ -3004,7 +2978,7 @@
       "enableFletching": false,
       "enableProjectile": false
     },
-    "name": "lumium",
+    "name": "basalt",
     "material": true,
     "fluid": true,
     "traits": true,
