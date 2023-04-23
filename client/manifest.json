@@ -3,7 +3,7 @@
     "version": "1.12.2",
     "modLoaders": [
       {
-        "id": "forge-14.23.5.2855",
+        "id": "forge-14.23.5.2860",
         "primary": true
       }
     ]
@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Katyvasz Brutál Edisön",
-  "version": "1.1.2c",
+  "version": "1.1.3b",
   "author": "Martenz",
   "files": [
     {
@@ -365,6 +365,11 @@
       "required": true
     },
     {
+      "projectID": 310383,
+      "fileID": 2660325,
+      "required": true
+    },
+    {
       "projectID": 241319,
       "fileID": 2761319,
       "required": true
@@ -416,7 +421,7 @@
     },
     {
       "projectID": 253043,
-      "fileID": 3064112,
+      "fileID": 3558524,
       "required": true
     },
     {
@@ -841,7 +846,7 @@
     },
     {
       "projectID": 244258,
-      "fileID": 3268501,
+      "fileID": 3553627,
       "required": true
     },
     {
@@ -881,7 +886,7 @@
     },
     {
       "projectID": 220318,
-      "fileID": 2715506,
+      "fileID": 3558882,
       "required": true
     },
     {
@@ -901,7 +906,7 @@
     },
     {
       "projectID": 321139,
-      "fileID": 3366225,
+      "fileID": 3565071,
       "required": true
     },
     {
@@ -1176,7 +1181,7 @@
     },
     {
       "projectID": 454372,
-      "fileID": 3543822,
+      "fileID": 3544931,
       "required": true
     },
     {
@@ -1366,7 +1371,7 @@
     },
     {
       "projectID": 257818,
-      "fileID": 3537908,
+      "fileID": 3553559,
       "required": true
     },
     {
@@ -1431,7 +1436,7 @@
     },
     {
       "projectID": 313536,
-      "fileID": 2952895,
+      "fileID": 3562094,
       "required": true
     },
     {
@@ -1475,6 +1480,11 @@
       "required": true
     },
     {
+      "projectID": 311327,
+      "fileID": 2660247,
+      "required": true
+    },
+    {
       "projectID": 232791,
       "fileID": 3330021,
       "required": true
@@ -1486,7 +1496,7 @@
     },
     {
       "projectID": 373157,
-      "fileID": 3384430,
+      "fileID": 3554483,
       "required": true
     },
     {

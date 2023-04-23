@@ -1348,5 +1348,203 @@
     "thirst": 2,
     "hydration": 0.2,
     "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "tp:carrot_juice",
+      "metadata": 0
+    },
+    "thirst": 5,
+    "hydration": 0.4, 
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "tp:raspberry_juice",
+      "metadata": 0
+    },
+    "thirst": 5,
+    "hydration": 0.4, 
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "tp:maloberry_juice",
+      "metadata": 0
+    },
+    "thirst": 5,
+    "hydration": 0.4, 
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "tp:cactus_juice",
+      "metadata": 0
+    },
+    "thirst": 5,
+    "hydration": 0.4, 
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "tp:pumpkin_juice",
+      "metadata": 0
+    },
+    "thirst": 5,
+    "hydration": 0.4, 
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "tp:wheat_juice",
+      "metadata": 0
+    },
+    "thirst": 5,
+    "hydration": 0.4, 
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "tp:blackberry_juice",
+      "metadata": 0
+    },
+    "thirst": 5,
+    "hydration": 0.4, 
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "tp:melon_juice",
+      "metadata": 0
+    },
+    "thirst": 5,
+    "hydration": 0.4, 
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "tp:beet_juice",
+      "metadata": 0
+    },
+    "thirst": 5,
+    "hydration": 0.4, 
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "tp:potatoe_juice",
+      "metadata": 0
+    },
+    "thirst": 5,
+    "hydration": 0.4, 
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "tp:slime_juice",
+      "metadata": 0
+    },
+    "thirst": 5,
+    "hydration": 0.4, 
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "tp:apple_juice",
+      "metadata": 0
+    },
+    "thirst": 5,
+    "hydration": 0.4, 
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "tp:peach_juice",
+      "metadata": 0
+    },
+    "thirst": 5,
+    "hydration": 0.4, 
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "tp:blueberry_juice",
+      "metadata": 0
+    },
+    "thirst": 5,
+    "hydration": 0.4, 
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "tp:pear_juice",
+      "metadata": 0
+    },
+    "thirst": 5,
+    "hydration": 0.4, 
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "aether_legacy:blue_berry",
+      "metadata": 0
+    },
+    "thirst": 2,
+    "hydration": 0.2,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "aether_legacy:enchanted_blueberry",
+      "metadata": 0
+    },
+    "thirst": 6,
+    "hydration": 0.8,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "tp:raspberry_berry",
+      "metadata": 0
+    },
+    "thirst": 2,
+    "hydration": 0.2,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "tp:blueberry_berry",
+      "metadata": 0
+    },
+    "thirst": 2,
+    "hydration": 0.2,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "tp:blackberry_berry",
+      "metadata": 0
+    },
+    "thirst": 2,
+    "hydration": 0.2,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "tp:maloberry_berry",
+      "metadata": 0
+    },
+    "thirst": 2,
+    "hydration": 0.2,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "dungeontactics:cherry_bomb",
+      "metadata": 0
+    },
+    "thirst": 2,
+    "hydration": 0.2,
+    "poisonChance": 0.0
   }
 ]

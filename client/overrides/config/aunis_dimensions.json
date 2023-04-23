@@ -1,34 +1,9 @@
 {
-  "Treasure Room": {
-    "energyToOpen": 0,
-    "keepAlive": 0
-  },
-  "overworld": {
-    "energyToOpen": 0,
-    "keepAlive": 0,
-    "group": "netherOv"
-  },
-  "Deep Dark": {
-    "energyToOpen": 0,
-    "keepAlive": 0
-  },
   "AetherI": {
     "energyToOpen": 0,
     "keepAlive": 0
   },
-  "ExtraUtils2_Quarry_Dim": {
-    "energyToOpen": 0,
-    "keepAlive": 0
-  },
-  "space": {
-    "energyToOpen": 0,
-    "keepAlive": 0
-  },
-  "End": {
-    "energyToOpen": 0,
-    "keepAlive": 0
-  },
-  "Spectre": {
+  "Tropics": {
     "energyToOpen": 0,
     "keepAlive": 0
   },
@@ -37,7 +12,7 @@
     "keepAlive": 1600,
     "group": "netherOv"
   },
-  "Mystcraft_ProfilerDummy": {
+  "Storage Cell": {
     "energyToOpen": 0,
     "keepAlive": 0
   },
@@ -53,7 +28,7 @@
     "energyToOpen": 0,
     "keepAlive": 0
   },
-  "twilight_forest": {
+  "Deep Dark": {
     "energyToOpen": 0,
     "keepAlive": 0
   },
@@ -61,7 +36,11 @@
     "energyToOpen": 0,
     "keepAlive": 0
   },
-  "Tropics": {
+  "twilight_forest": {
+    "energyToOpen": 0,
+    "keepAlive": 0
+  },
+  "space": {
     "energyToOpen": 0,
     "keepAlive": 0
   },
@@ -69,8 +48,29 @@
     "energyToOpen": 0,
     "keepAlive": 0
   },
-  "Storage Cell": {
+  "ExtraUtils2_Quarry_Dim": {
     "energyToOpen": 0,
     "keepAlive": 0
+  },
+  "End": {
+    "energyToOpen": 0,
+    "keepAlive": 0
+  },
+  "Mystcraft_ProfilerDummy": {
+    "energyToOpen": 0,
+    "keepAlive": 0
+  },
+  "Spectre": {
+    "energyToOpen": 0,
+    "keepAlive": 0
+  },
+  "Treasure Room": {
+    "energyToOpen": 0,
+    "keepAlive": 0
+  },
+  "overworld": {
+    "energyToOpen": 0,
+    "keepAlive": 0,
+    "group": "netherOv"
   }
 }
